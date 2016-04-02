@@ -1,4 +1,3 @@
-# Protosound has been obsoleted. Go to https://github.com/parkpants/searchtunes
-# Protosound was completed as a joint project for HackTCNJ
+# BlindFold was created as a project for HackNY 2016
 #
-# Chrome extension for used to play songs in accordance with relevant search terms
+# BlindFold helps you hide NSFW content until you're alone and is visible only when you hover over the NSFW that is replaced with a picture.
