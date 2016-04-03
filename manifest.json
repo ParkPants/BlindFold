@@ -1,6 +1,6 @@
 {
   "name": "BlindFold",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Hides NSFW images that uncover if hovered over",
   
   "browser_action": {
@@ -9,12 +9,12 @@
   },
 
   "permissions": [
-    "http://www.google.com/*", "https://www.google.com/*", "tabs"
+    "<all_urls>"
   ],
 
   "background":{
-    "scripts": ["background.js"],
+    "scripts": ["background.js","jquery-1.12.2.min.js"],
     "persistent": true
   },
-  "manifest_version": 1
+  "manifest_version": 2
 }
